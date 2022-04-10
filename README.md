@@ -2,5 +2,8 @@
 
 ##免费节点分享
 
-> [![Deploy](https://t.me/bpjzx2)
-> [![Deploy](https://t.me/bpjzx1)
+<a href="https://www.php.cn/">
+
+    <button>进入PHP中文网</button>
+
+</a>
