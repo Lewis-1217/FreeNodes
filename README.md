@@ -1,6 +1,6 @@
 # FreeNodes
 
-## 免费节点分享
+### 免费节点分享
 
 <a href="https://t.me/bpjzx2">进入白嫖节点频道</a>
 
