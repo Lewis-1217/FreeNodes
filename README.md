@@ -9,5 +9,6 @@
 <a href="https://telegra.ph/呀你来啦-03-01">点击阅读注意事项</a>
 
 <details>
-  <summary>展开复制节点</summary>你好！
+  <summary>展开复制节点</summary>
+  你好！
 </details>
