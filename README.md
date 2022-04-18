@@ -10,7 +10,5 @@
 
 <details>
   <summary>展开复制节点</summary>
-
-    nihao
-    
+  你好
 </details>
