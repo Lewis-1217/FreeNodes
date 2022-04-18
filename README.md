@@ -9,7 +9,7 @@
 <a href="https://telegra.ph/呀你来啦-03-01">点击阅读注意事项</a>
 
 <details>
-  <summary>展开查看节点</summary>
+  <summary>展开复制节点</summary>
   
 
   ssr://NDIuMTU3LjE5Ni4yNTA6MTg1ODQ6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6UTNadVlrMHcvP3JlbWFya3M9YUhSMGNITTZMeTkwTG0xbEwySndhbnA0TVEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPVpHOTNibXh2WVdRdWQybHVaRzkzYzNWd1pHRjBaUzVqYjIwJmdyb3VwPVUxTlNVSEp2ZG1sa1pYSQ
