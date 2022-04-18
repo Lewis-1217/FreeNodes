@@ -44,9 +44,7 @@
   
   
 </details>
-## 节点信息
-### 高速节点
-高速节点数量: `58`
+
 <details>
   <summary>展开复制节点</summary>
 
