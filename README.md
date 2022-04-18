@@ -39,9 +39,8 @@
   ssr://NDIuMTU3LjE5Ni4yNTI6MTg1ODQ6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6UTNadVlrMHcvP3JlbWFya3M9NmFhWjVyaXZYekkmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPVpHOTNibXh2WVdRdWQybHVaRzkzYzNWd1pHRjBaUzVqYjIwJmdyb3VwPVUxTlNVSEp2ZG1sa1pYSQ
   vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4r18zIiwNCiAgImFkZCI6ICIxMTIuNDguMTc3Ljc0IiwNCiAgInBvcnQiOiAiNjExMTciLA0KICAiaWQiOiAiMTRlM2E3NWMtZGM1YS0zODIxLWI3NGQtOWY3NWY3YzFhOGEyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvaW5kZXgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
   trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@id2-trojan.bonds.id:443?allowInsecure=1#%e5%8d%b0%e5%ba%a6%e5%b0%bc%e8%a5%bf%e4%ba%9a
-  
-  
-  
+
+
 </details>
 
 <details>
