@@ -10,5 +10,5 @@
 
 <details>
   <summary>展开复制节点</summary>
-  你好！
+  <p>你好！</p>
 </details>
