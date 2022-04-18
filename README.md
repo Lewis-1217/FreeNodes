@@ -10,5 +10,8 @@
 
 <details open>
   <summary>展开复制节点</summary>
-  <p>你好！</p>
+  <p>你好！
+  hello
+  bndsa
+  asidjiq</p>
 </details>
