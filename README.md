@@ -1,6 +1,6 @@
 # FreeNodes
 
-### 免费节点分享
+### >免费节点分享
 
 - [订阅❶ - 通用base64编码](https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1)
 - [订阅❶ - Clash长链接](https://zhuanhuan.diga.workers.dev/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FLewis-1217%2FFreeNodes%2Fmain%2Fbpjzx1&insert=false&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true)
@@ -14,7 +14,7 @@
 >节点不定时更新
 
 
-### 节点永久免费
+### >节点永久免费
 
 <a href="https://t.me/bpjzx2">进入白嫖节点频道</a>
 
