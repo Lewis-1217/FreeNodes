@@ -2,9 +2,7 @@
 
 ### 免费节点分享
 
-- [订阅① - 通用base64编码](https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1)
-- [订阅① - Clash链接](https://zhuanhuan.diga.workers.dev/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FLewis-1217%2FFreeNodes%2Fmain%2Fbpjzx1&insert=false&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true)
-- [订阅① - Clash短链接](https://sourl.cn/eTHSqa)
+- [订阅① - 通用base64编码](https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1)   [订阅① - Clash链接](https://zhuanhuan.diga.workers.dev/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FLewis-1217%2FFreeNodes%2Fmain%2Fbpjzx1&insert=false&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true)   [订阅① - Clash短链接](https://sourl.cn/eTHSqa)
 
 ######  订阅二：
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2
