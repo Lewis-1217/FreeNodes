@@ -2,10 +2,10 @@
 
 ### 免费节点分享
 
-- 订阅一：
+-订阅一：
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1
 
-- 订阅一clash：
+-订阅一clash：
 https://zhuanhuan.diga.workers.dev/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FLewis-1217%2FFreeNodes%2Fmain%2Fbpjzx1&insert=false&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true
 
 订阅一clash短链接：
