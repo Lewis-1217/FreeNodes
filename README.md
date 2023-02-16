@@ -30,14 +30,5 @@
 <h4><strong>Linux</strong>–<strong>V2ray Ubuntu/Centos电脑客户端</strong>程序下载</h4>
 <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Qv2ray下载</td><td><a href="https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">官网下载</a></td></tr><tr><td>Mellow下载</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">官网下载</a></td></tr><tr><td>V2rayL下载</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">官方安装文档</a></td></tr></tbody></table></figure>
 <h4>iOS-<strong>V2ray苹果<strong>手机客户端</strong>App程序</strong>下载</h4>
-<p>苹果AppStore市场里还没有免费的V2ray iOS客户端，付费的app目前有小火箭Shadowrocket、pepi、i2Ray、Kitsunebi和Quantumult（圈儿，圈叉）可用。</p>
-<h3>ShadowsocksR/SSR客户端下载</h3>
-<p>ShadowsocksR简称SSR，酸酸乳、粉色小飞机、纸飞机</p>
-<p>SSR Windows客户端、SSR安卓客户端</p>
-<h4><strong>Windows7/8/10-<strong>SSR小飞机 WinPC电脑客户端</strong>程序下载</strong></h4>
-<p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">官网下载</a></p>
-<h4><strong><strong>Android/小米MIUI/华为EMUI-SSR小飞机 安卓手机客户端</strong>Apk程序下载</strong></h4>
-<p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">官网下载</a></p>
-<h3><strong><strong>MacOS-SSR小飞机 苹果电脑客户端</strong>程序下载</strong></h3>
 <p>IOS系统的翻墙软件需要非大陆的AppleID，香港，台湾的账号都是可以的，自行购买ShadowRocket(小火箭)，Quantumult X(圈X)，Loon等等的翻墙软件</p>
 
